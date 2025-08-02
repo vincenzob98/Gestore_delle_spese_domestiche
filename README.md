@@ -48,4 +48,5 @@ Licenza
 MIT
 
 Contatti
+
 Creato nell’ambito del corso ProfessionAI, a cura di Vincenzo Barone e supervisione di ProfessionAI, autore Giuseppe Gullo.
